@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>West2Go GmbH on West2go GmbH</title>
+    <link>https://example.org/</link>
+    <description>Recent content in West2Go GmbH on West2go GmbH</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Feb 2025 22:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt</title>
+      <link>https://example.org/contact/</link>
+      <pubDate>Sat, 08 Feb 2025 22:00:00 +0000</pubDate>
+      <guid>https://example.org/contact/</guid>
+      <description>&lt;h2 id=&#34;kontaktinformationen&#34;&gt;&lt;strong&gt;Kontaktinformationen&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;📧 &lt;strong&gt;E-Mail:&lt;/strong&gt; &lt;a href=&#34;mailto:info@west2go.de&#34;&gt;info@west2go.de&lt;/a&gt;&lt;br&gt;&#xA;📞 &lt;strong&gt;Telefon:&lt;/strong&gt; 0176 2173 9650&lt;br&gt;&#xA;📍 &lt;strong&gt;Adresse:&lt;/strong&gt; Innungstr. 15c, 50354 Hürth, Deutschland&lt;/p&gt;&#xA;&lt;h2 id=&#34;kontaktformular&#34;&gt;&lt;strong&gt;Kontaktformular&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Falls Sie Fragen haben, kontaktieren Sie uns bitte per E-Mail oder Telefon. Wir freuen uns auf Ihre Nachricht!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Über uns</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Sat, 08 Feb 2025 22:00:00 +0000</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description>&lt;h2 id=&#34;über-uns&#34;&gt;&lt;strong&gt;Über uns&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;West2Go GmbH ist ein deutsches Handelsunternehmen mit Sitz in Köln.&lt;br&gt;&#xA;Wir wurden 2017 gegründet und haben uns auf den Handel mit hochwertigen Produkten spezialisiert.&lt;/p&gt;&#xA;&lt;p&gt;Unsere Hauptgeschäftsfelder:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;Photovoltaik-Technologie&lt;/strong&gt; – Wir liefern hochwertige Solarmodule.&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;Kosmetikprodukte&lt;/strong&gt; – Wir exportieren exklusive Kosmetikprodukte.&lt;/li&gt;&#xA;&lt;li&gt;✅ &lt;strong&gt;Lebensmittel&lt;/strong&gt; – Wir importieren und vertreiben hochwertige Lebensmittel.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;unsere-vision&#34;&gt;&lt;strong&gt;Unsere Vision&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Unsere Mission ist es, nachhaltige und innovative Produkte auf den Markt zu bringen und unseren Kunden den besten Service zu bieten.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
